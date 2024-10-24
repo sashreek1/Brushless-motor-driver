@@ -1,0 +1,11 @@
+"","MAL214231101E3","Aluminum Electrolytic Capacitor, Polarized, Aluminum (wet), 50V, 20% +Tol, 20% -Tol, 100uF, Through Hole Mount","C19, C26","2","","","","","","",""
+
+
+"","43650-0328","Rectangular Power Connector, 3 Contact(s), Female, Solder Terminal","J4","1","","","","","","",""
+
+
+"","691214110002","","J7","1","","","","","","",""
+
+"","5001","PC TEST POINT MINIATURE BLACK","J19, J20, J21, J22, J23, J24","6","","","","","","",""
+
+"","352239KJT","3522 39K 5% 3W","R24, R26, R28, R30","4","","","","","","",""
